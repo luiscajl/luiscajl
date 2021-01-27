@@ -3,4 +3,4 @@
 ---
 
 ### Hi there 👋,           
-I'm Luis Carlos, full stack developer on Altran to Airbus Defense & Space, Student of [Master Cloud Apps](https://www.codeurjc.es/mastercloudapps/) 
+I'm Luis Carlos, backend developer on Paradigma. 
