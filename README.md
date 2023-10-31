@@ -3,7 +3,7 @@
 ---
 
 ### Hi there 👋,           
-I'm Luis Carlos, backend developer on Paradigma. 
+I'm Luis Carlos, backend developer on [ThalesAleniaSpace](https://github.com/ThalesAleniaSpace). 
 
 My contribution on this platform:
 
