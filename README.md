@@ -3,7 +3,7 @@
 ---
 
 ### Hi there 👋,           
-I'm Luis Carlos, backend developer on [ThalesAleniaSpace](https://github.com/ThalesAleniaSpace). 
+I'm Luis Carlos, Software Engineer on [ThalesAleniaSpace](https://github.com/ThalesAleniaSpace). 
 
 My contribution on this platform:
 
